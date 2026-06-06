@@ -36,7 +36,7 @@ A modern, interactive, and highly responsive personal portfolio website designed
 ## 📂 Project Structure
 
 An industrial-standard component-based architecture is maintained:
-
+```text
 rajin-portfolio/
 ├── public/
 │   └── profile.png          # User image
